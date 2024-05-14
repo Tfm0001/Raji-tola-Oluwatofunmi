@@ -45,11 +45,6 @@ span{
     
 }
 
-.contact:hover{
-    background-color: yellowgreen;
-    box-shadow: 0 0 25px yellowgreen;
-    color:white;
-}
 
 .home{
     width:100%;
